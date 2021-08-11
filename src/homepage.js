@@ -1,4 +1,4 @@
-import { FormControl, Col, Row, Navbar, Form, Nav } from "react-bootstrap";
+import { FormControl, Col, Row, Navbar, Form } from "react-bootstrap";
 import { LinkContainer } from "react-router-bootstrap";
 import "./homepage.css";
 import Body from "./body";
