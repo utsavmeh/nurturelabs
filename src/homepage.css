@@ -1,0 +1,44 @@
+.logo {
+	size: 20%;
+	border-radius: 50%;
+	margin-left: 20px;
+	margin-top: 10px;
+	display: inline;
+}
+
+.row_items.active {
+	background-color: #3f0e40;
+	color: white;
+}
+.termmontior {
+	display: inline;
+	margin-top: 100px;
+}
+.pointer:hover {
+	cursor: pointer;
+}
+.col {
+	margin: 0px !important;
+	padding: 0px !important;
+}
+.keyword {
+	margin-left: 20px;
+}
+.row {
+	margin: 0px !important;
+	padding: 0px !important;
+}
+
+.searchbox {
+	margin-right: 0px;
+}
+
+.button {
+	background-color: white !important;
+	border-color: white !important;
+	margin-left: -10px;
+}
+
+.arrow {
+	margin-left: 10px;
+}
